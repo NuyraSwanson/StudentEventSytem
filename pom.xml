@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>za.ac.cput</groupId>
-    <artifactId>adp372s-assignment1</artifactId>
+    <artifactId>StudentEventSystem</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
