@@ -1,5 +1,5 @@
 # Student Event System
- 
+ ![UML Diagram](ADPUML)
 ## Description
 This project is a Student Event System that allows students to view events, book tickets, and attend events. The university can create events, assign venues, and manage bookings.
 The system is developed using Java and applies object-oriented design principles and design patterns.
