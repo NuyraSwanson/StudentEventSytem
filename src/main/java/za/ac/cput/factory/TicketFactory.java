@@ -5,8 +5,6 @@ package za.ac.cput.factory;
 
 import za.ac.cput.domain.Ticket;
 import java.util.UUID;
-/* Nuyra Swanson: 221290524
-Date: 25 March 2026 */
 public class TicketFactory {
 
     public static Ticket createTicket(String bookingId,
