@@ -1,3 +1,5 @@
+/* Nuyra Swanson: 221290524 */
+
 package za.ac.cput.domain;
 
 public class Ticket {
