@@ -22,6 +22,7 @@ public class EventFactory {
                 .title(title)
                 .description(description)
                 .eventDate(eventDate)
+                .eventTime(eventTime)
                 .capacity(capacity)
                 .active(active)
                 .venueId(venueId)
